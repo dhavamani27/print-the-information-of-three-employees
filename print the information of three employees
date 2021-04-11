@@ -1,0 +1,17 @@
+public class Employee{
+  public static void main(String[]args){
+    String name="Robert";
+    int year=1994;
+    String salary="64C";
+    String name2="WallStreet Sam";
+    int year2=2000;
+    String salary2="68D";
+    String name3="WallStreet John";
+    int year3=1999;
+    String salary3="26B";
+    String name4="WallStreet";
+    System.out.println("Name Year of Joining Address:"+name +" "+ year +" "+ salary +"-"+ name2 +" "+ year2 +" "+ salary2 +"-"+ name3 +" "+ year3 +" "+ salary3 +"-"+ name4);
+ }
+}
+
+
